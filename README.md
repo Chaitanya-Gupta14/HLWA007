@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Chaitanya Gupta.
-- 👀 I’m interested in exploration of technology.
+- 👀 I have interest in exploring new tech and related technologies.
 - 🌱 I’m currently learning NLP and Website Creation.
 - 💞️ I’m looking to collaborate on Python Projects.
 - 📫 How to reach me chg140100@gmail.com
